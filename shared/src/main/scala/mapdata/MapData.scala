@@ -1,0 +1,5 @@
+package mapdata
+
+class MapData {
+
+}
